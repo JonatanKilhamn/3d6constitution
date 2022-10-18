@@ -1,5 +1,7 @@
 <h1>The 3d6 Constitution</h1>
 
+NOTE: this repo will not get any changes. If there are any updates to this projects, it will be on https://github.com/NatalieKilhamn/3d6constitution / https://nataliekilhamn.github.io/3d6constitution/
+
 The 3d6 constitution is a fantasy role-playing game ruleset, realised as a body of law.
 
 Start by reading the [agenda](docs/agenda). If you co-sign this, we could probably find a game we both enjoy playing together.
